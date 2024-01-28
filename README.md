@@ -1,8 +1,28 @@
 # HackerRank-SQLadvance
 
+## 🥧🧁🍰 Question 🍰🧁🥧
+![image](https://github.com/diantyapitaloka/HackerRank-SQLadvance/assets/147487436/9730fd8b-33d7-41c0-8eb6-afe5919eccc4)
 
-![image](https://github.com/diantyapitaloka/HackerRank-SQLadvance/assets/147487436/cd6697ad-5fdb-4e93-b60e-10cdea3aeb87)
+## 🥧🧁🍰 Schme 🍰🧁🥧
+![image](https://github.com/diantyapitaloka/HackerRank-SQLadvance/assets/147487436/74478c3a-974d-4f15-bf3c-282b29ab95ce)
 
-![image](https://github.com/diantyapitaloka/HackerRank-SQLadvance/assets/147487436/d5cebae9-ba09-4acf-9d7d-646a5326fdfa)
+## 🥧🧁🍰 Answer 🍰🧁🥧
+![image](https://github.com/diantyapitaloka/HackerRank-SQLadvance/assets/147487436/9e288084-6f35-423e-aabf-af80c233d8dc)
 
-![image](https://github.com/diantyapitaloka/HackerRank-SQLadvance/assets/147487436/ec3c44d9-1d75-42ef-b130-63e4d73cbbff)
+
+## 🍼🥛☕ Question ☕🥛🍼
+![image](https://github.com/diantyapitaloka/HackerRank-SQLadvance/assets/147487436/19c0e92b-00c0-4cd1-a254-9e757b551abe)
+
+## 🍼🥛☕ Scheme ☕🥛🍼
+![image](https://github.com/diantyapitaloka/HackerRank-SQLadvance/assets/147487436/cd1846a4-0ef8-4cfd-a018-91ff05804d43)
+
+## 🍼🥛☕ Answer ☕🥛🍼
+![image](https://github.com/diantyapitaloka/HackerRank-SQLadvance/assets/147487436/b0424551-0c5c-4a03-adb6-501b7e95b363)
+
+
+
+
+
+
+
+
