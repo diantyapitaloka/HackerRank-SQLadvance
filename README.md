@@ -19,6 +19,8 @@
 ## 🍼🥛☕ Answer ☕🥛🍼
 ![image](https://github.com/diantyapitaloka/HackerRank-SQLadvance/assets/147487436/b0424551-0c5c-4a03-adb6-501b7e95b363)
 
+## 🍼🥛☕ Copyright ☕🥛🍼
+By Diantya Pitaloka
 
 
 
